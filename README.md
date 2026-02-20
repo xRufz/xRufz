@@ -59,7 +59,7 @@ Tambien hay ciertas herramientas 🛠️ que suelo usar en mi día a día:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRufz&theme=tokyonight" alt="Racha de commits" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/xRufz/xRufz/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 </div>
 
